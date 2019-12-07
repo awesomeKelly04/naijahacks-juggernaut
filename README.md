@@ -12,6 +12,7 @@
 # Problem
 
 
+
 # Proposed Solution
 
 
@@ -30,7 +31,4 @@ AI, ML, Database, Seq2Seq, TensorFlow
     ├── public                  # Compiled files (alternatively `dist`)
     ├── src                     # Source files (alternatively `lib` or `app`)
     └── README.md   
-<<<<<<< HEAD
 
-=======
->>>>>>> 19eac4b3808604a98cac8f17d4c343a1fdbbbeb2
