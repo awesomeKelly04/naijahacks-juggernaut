@@ -30,5 +30,3 @@ AI, ML, Database, Seq2Seq, TensorFlow
     ├── public                  # Compiled files (alternatively `dist`)
     ├── src                     # Source files (alternatively `lib` or `app`)
     └── README.md   
-
-# naijahacks-juggernaut
