@@ -1,4 +1,4 @@
-# NaijaHacks Hackathon 2018
+# NaijaHacks Hackathon 2019
 
 ## Team Juggernaut
 
@@ -31,4 +31,3 @@ AI, ML, Database, Seq2Seq, TensorFlow
     ├── src                     # Source files (alternatively `lib` or `app`)
     └── README.md   
 
-# naijahacks-juggernaut
