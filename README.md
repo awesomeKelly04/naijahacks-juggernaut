@@ -24,7 +24,7 @@ JuggernautBot: An AI-powered bots which leverages on machine learning to engage 
 
 # Proposed Stack
 
-AI, ML, Flask, ChatBot, Chatterbot, Python, SQLAlchemy(Data Base), SQLite3
+AI, ML, Flask, [Chatterbot](https://github.com/gunthercox/ChatterBot), Python, SQLAlchemy(Data Base), SQLite3
 
 # Benefit
 -   This will improve the level of student's affinity to maths and other computational subjects which will, in turn, increase the productivity of learners as they will become better at logical and critical thinking.
