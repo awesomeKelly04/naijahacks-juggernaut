@@ -3,4 +3,5 @@ gunicorn==19.9.0
 chatterbot==1.0.5
 chatterbot-corpus==1.2.0
 SQLAlchemy==1.2
+pip==22.2.2; python_version >= '3.7'
 PyYAML==5.1
